@@ -19,7 +19,7 @@
     },
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_READ": {
@@ -34,7 +34,7 @@
     },
     "AUTO_RECORDING": {
       "description": "make it true if you want bot to show recording audio",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "ALWAYS_ONLINE": {
@@ -49,7 +49,7 @@
     },
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
-      "required": false,
+      "required": true,
       "value": ""
     }
     },
